@@ -9,7 +9,7 @@ body{
 	top: 0px;
 	padding-top: 10%;
 	background-color: #2c3e50;
-	color: #fff;
+	color: #333;
 }
 
 .sidebar-header {
@@ -23,7 +23,7 @@ body{
 
 .sidebar-header .title a{
 	text-decoration: none;
-	color: #fff;
+	color: #333;
 }
 
 a.nav-link {
@@ -161,7 +161,7 @@ footer {
 .nav-tabs-vertical>li.active>a, .nav-tabs-vertical>li.active>a:hover, .nav-tabs-vertical>li.active>a:focus {
     color: #555;
     cursor: default;
-    background-color: #fff;
+    background-color: #333;
     border: 1px solid #ddd;
     border-right-color: transparent;
 }
