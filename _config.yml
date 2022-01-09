@@ -5,16 +5,16 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
+disqus: Hanky
 google_analytics: dbyll
-title: dbyll
+title: Hanky
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Hanky
 
 description: Stylish Jekyll Theme
 author:
@@ -32,7 +32,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-sidebar_background_image: https://w.wallhaven.cc/full/v9/wallhaven-v9o68m.jpg
+sidebar_background_image: https://imgur.com/a/af5xTd8
 
 BASE_PATH:
 
